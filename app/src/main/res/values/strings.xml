@@ -1,0 +1,21 @@
+    <resources>
+        <string name="app_name">Application de dessert</string>
+        <string name="selector_title">Sélecteur</string>
+        <string name="initial_message">Sélectionnez un élément ci-dessous pour afficher</string>
+        <string name="close_button_text">Fermer</string>
+        <string name="display_activity_title">Visionneuse</string>
+        <string name="back_button_text">&lt; Retour</string>
+
+            <String name ="item_original">Originale</String>
+            <String name ="item_fresh_strawberry">Originale</String>
+            <String name ="item_chocolate_caramelicious">Originale</String>
+            <String name ="item_pineapple_upside_down">Originale</String>
+            <String name ="item_celebration">Originale</String>
+            <String name ="item_caramel_apple">Originale</String>
+            <String name ="item_very_cherry_ghirardelli_chocolate">Originale</String>
+            <String name ="item_lowlicious">Originale</String>
+            <String name ="item_cinnabon_cinnamon_swirl">Originale</String>
+            <String name ="item_godiva_chocolate">Originale</String>
+            <String name ="item_coconut_cream_pie">Originale</String>
+            <String name ="item_salted_caramel">Originale</String>
+    </resources>
